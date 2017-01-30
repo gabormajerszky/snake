@@ -1,2 +1,2 @@
 # snake
-the old classic game written in python
+The classic Snake game written in Python
